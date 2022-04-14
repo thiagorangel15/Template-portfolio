@@ -1,3 +1,3 @@
 # Template-portfolio
 
-Template de portfolio/curriculo utilizando HTML CSS (Bulma Framework)
+Template de portfolio/curriculo utilizando HTML CSS (Bulma Framework) responsivo
